@@ -41,66 +41,101 @@ filegroup {
 
 prebuilt_font {
     name: "Roboto-Regular.ttf",
-    src: "Roboto-Regular.ttf",
+    src: "Inter-Regular.ttf",
     // These symlinks are for backward compatibility.
     symlinks: ["DroidSans.ttf"],
 }
 
 prebuilt_font {
     name: "Roboto-Bold.ttf",
-    src: "Roboto-Bold.ttf",
+    src: "Inter-Bold.ttf",
     // These symlinks are for backward compatibility.
     symlinks: ["DroidSans-Bold.ttf"],
 }
 
 prebuilt_font {
     name: "Roboto-Italic.ttf",
-    src: "Roboto-Italic.ttf",
+    src: "Inter-Italic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-BoldItalic.ttf",
-    src: "Roboto-BoldItalic.ttf",
+    src: "Inter-BoldItalic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Black.ttf",
-    src: "Roboto-Black.ttf",
+    src: "Inter-Black.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-BlackItalic.ttf",
-    src: "Roboto-BlackItalic.ttf",
+    src: "Inter-BlackItalic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Light.ttf",
-    src: "Roboto-Light.ttf",
+    src: "Inter-Light.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-LightItalic.ttf",
-    src: "Roboto-LightItalic.ttf",
+    src: "Inter-LightItalic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Medium.ttf",
-    src: "Roboto-Medium.ttf",
+    src: "Inter-Medium.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-MediumItalic.ttf",
-    src: "Roboto-MediumItalic.ttf",
+    src: "Inter-MediumItalic.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-Thin.ttf",
-    src: "Roboto-Thin.ttf",
+    src: "Inter-Thin.ttf",
 }
 
 prebuilt_font {
     name: "Roboto-ThinItalic.ttf",
-    src: "Roboto-ThinItalic.ttf",
+    src: "Inter-ThinItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-Bold.ttf",
+    src: "Inter-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-ExtraBoldItalic.ttf",
+    src: "Inter-ExtraBoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-ExtraBold.ttf",
+    src: "Inter-ExtraBold.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-ExtraLightItalic.ttf",
+    src: "Inter-ExtraLightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-ExtraLight.ttf",
+    src: "Inter-ExtraLight.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-SemiBoldItalic.ttf",
+    src: "Inter-SemiBoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "Roboto-SemiBold.ttf",
+    src: "Inter-SemiBold.ttf",
 }
 
 prebuilt_font {

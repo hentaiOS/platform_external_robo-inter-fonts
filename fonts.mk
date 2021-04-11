@@ -15,10 +15,16 @@
 PRODUCT_PACKAGES := \
     Roboto-Regular.ttf \
     Roboto-Bold.ttf \
+    Roboto-SemiBoldItalic.ttf \
+    Roboto-SemiBold.ttf \
+    Roboto-ExtraBoldItalic.ttf \
+    Roboto-ExtraBold.ttf \
     Roboto-Italic.ttf \
     Roboto-BoldItalic.ttf \
     Roboto-Black.ttf \
     Roboto-BlackItalic.ttf \
+    Roboto-ExtraLightItalic.ttf \
+    Roboto-ExtraLight.ttf \
     Roboto-Light.ttf \
     Roboto-LightItalic.ttf \
     Roboto-Medium.ttf \
