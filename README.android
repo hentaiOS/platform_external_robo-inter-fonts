@@ -10,3 +10,13 @@ Local Modifications:
 This directory tracks the upstream result of "make; make crunch; make android",
 which generates optimized, unhinted font files with TrueType outlines. The tools
 are not included.
+
+----------------------------------------------------------------------------------
+
+URL: https://github.com/rsms/inter/releases/download/v3.18/Inter-3.18.zip
+Version: 3.18
+License: SIL Open Font License, Version 1.1
+License File: NOTICE
+
+Description:
+Inter fonts, the default fonts on hentaiOS.
